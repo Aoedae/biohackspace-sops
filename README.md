@@ -1,4 +1,4 @@
-LBL biohackspace SOPs
+Biomakespace SOPs
 =====================
 
 Build instructions
@@ -19,13 +19,13 @@ to build.
 Phrasing Styleguide
 -------------------
 
-"containment level 1" abreviated to "CL1".
+"Containment level 1" is abreviated to "CL1".
 
-The lab is referred to always as the "London Biohackspace Biolab" or "BioLab".
+"Cambridge Biomakespace" or "Biomakespace" is referred to as "the lab" throughout. 
 
-The SOPs are always refered to as either "London Biohackspace Standard Operating Procedures", "London Biohackspace SOPs", or "SOPs".
+The "Biomakespace Standard Operating Procedures" are referred to as "the SOPs" throughout.
 
-The Lab rules are always referred to as "London Biohackspace BioLab Rules" or "BioLab Rules"
+The "Biomakespace Rules" or "Lab Rules" are referred to as "the rules" throughout.
 
 Formating StyleGuide
 --------------------
@@ -33,7 +33,7 @@ Formating StyleGuide
 Headings: 
 
 	====================
-	LBLXXXXX - SOP Title
+	BIOMXXXXX - SOP Title
 	====================
 
 	Section Heading
@@ -69,11 +69,7 @@ Refering to other sections within the same SOP:
 
 Refering to other SOPs (all other SOPs referenced should be listed in the related documents section):
 
-	`LBLXXXXX <lblXXXXX.rst>`__
-
-Refering to other sections within a different SOP:
-
-	still figuring out if this is a good idea
+	`BIOXXXXX <BIOXXXXX.rst>`__
 
 Refering to external sources:
 
